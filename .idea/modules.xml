@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simpledevice-aggregator.iml" filepath="$PROJECT_DIR$/simpledevice-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/simpledevice-api.iml" filepath="$PROJECT_DIR$/api/simpledevice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/artifacts/simpledevice-artifacts.iml" filepath="$PROJECT_DIR$/artifacts/simpledevice-artifacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/simpledevice-features.iml" filepath="$PROJECT_DIR$/features/simpledevice-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impl/simpledevice-impl.iml" filepath="$PROJECT_DIR$/impl/simpledevice-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it/simpledevice-it.iml" filepath="$PROJECT_DIR$/it/simpledevice-it.iml" />
+      <module fileurl="file://$PROJECT_DIR$/karaf/simpledevice-karaf.iml" filepath="$PROJECT_DIR$/karaf/simpledevice-karaf.iml" />
+    </modules>
+  </component>
+</project>

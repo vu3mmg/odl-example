@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.mdsal:yang-binding:0.8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/yang-binding/0.8.0-SNAPSHOT/yang-binding-0.8.0-20160207.090204-152.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/yang-binding/0.8.0-SNAPSHOT/yang-binding-0.8.0-20160207.090204-152-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/yang-binding/0.8.0-SNAPSHOT/yang-binding-0.8.0-20160207.090204-152-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

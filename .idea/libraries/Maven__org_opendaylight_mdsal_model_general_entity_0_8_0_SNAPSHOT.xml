@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.mdsal.model:general-entity:0.8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/general-entity/0.8.0-SNAPSHOT/general-entity-0.8.0-20160207.090213-29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/general-entity/0.8.0-SNAPSHOT/general-entity-0.8.0-20160207.090213-29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/general-entity/0.8.0-SNAPSHOT/general-entity-0.8.0-20160207.090213-29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

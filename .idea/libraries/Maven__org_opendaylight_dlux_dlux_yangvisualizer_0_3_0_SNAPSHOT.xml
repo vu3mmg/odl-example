@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.dlux:dlux.yangvisualizer:0.3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/dlux/dlux.yangvisualizer/0.3.0-SNAPSHOT/dlux.yangvisualizer-0.3.0-20160207.222606-64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/dlux/dlux.yangvisualizer/0.3.0-SNAPSHOT/dlux.yangvisualizer-0.3.0-20160207.222606-64-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/dlux/dlux.yangvisualizer/0.3.0-SNAPSHOT/dlux.yangvisualizer-0.3.0-20160207.222606-64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.yangtools:object-cache-guava:0.8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/yangtools/object-cache-guava/0.8.0-SNAPSHOT/object-cache-guava-0.8.0-20160207.110711-491.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/yangtools/object-cache-guava/0.8.0-SNAPSHOT/object-cache-guava-0.8.0-20160207.110711-491-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/yangtools/object-cache-guava/0.8.0-SNAPSHOT/object-cache-guava-0.8.0-20160207.110711-491-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

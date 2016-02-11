@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.mdsal:maven-sal-api-gen-plugin:0.8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/maven-sal-api-gen-plugin/0.8.0-SNAPSHOT/maven-sal-api-gen-plugin-0.8.0-20160207.090045-153.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/maven-sal-api-gen-plugin/0.8.0-SNAPSHOT/maven-sal-api-gen-plugin-0.8.0-20160207.090045-153-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/maven-sal-api-gen-plugin/0.8.0-SNAPSHOT/maven-sal-api-gen-plugin-0.8.0-20160207.090045-153-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

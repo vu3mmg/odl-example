@@ -1,0 +1,49 @@
+module simpledevice {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:simpledevice";
+    prefix "simpledevice";
+
+    revision "2015-01-05" {
+        description "Initial revision of simpledevice model";
+    }
+       container system-registry {
+                    leaf host-name {
+                        type string;
+                        description "Hostname for this system";
+                    }
+       }
+       container ip-registry {
+                           leaf host-name {
+                               type string;
+                               description "Hostname for this system";
+                           }
+              }
+       rpc hello-world {
+               input {
+                   leaf greeting {
+                       type string;
+                   }
+               }
+               output {
+                   leaf greeting {
+                       type string;
+                   }
+               }
+           }
+           grouping echo-request {
+                           reference "OFPT_ECHO_REQUEST message in Openflow Switch 1.3 Spec";
+                           /* Symmetric message */
+
+
+                           leaf data {
+                               type binary;
+                           }
+                       }
+           notification echo-request-message {
+                           uses echo-request;
+                           reference "OFPT_ECHO_REQUEST message in Openflow Switch 1.3 Spec";
+
+                           /* Symmetric message */
+                       }
+
+}

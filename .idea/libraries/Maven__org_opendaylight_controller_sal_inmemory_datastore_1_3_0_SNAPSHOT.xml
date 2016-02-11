@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.controller:sal-inmemory-datastore:1.3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/sal-inmemory-datastore/1.3.0-SNAPSHOT/sal-inmemory-datastore-1.3.0-20160207.011304-486.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/sal-inmemory-datastore/1.3.0-SNAPSHOT/sal-inmemory-datastore-1.3.0-20160207.011304-486-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/sal-inmemory-datastore/1.3.0-SNAPSHOT/sal-inmemory-datastore-1.3.0-20160207.011304-486-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
